@@ -11,3 +11,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parsazedd&layout=compact)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parsazedd&theme=swift&show_icons=true)](https://github.com/parsazedd/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=parsazedd&theme=onedark)](https://github.com/parsazedd/github-profile-trophy)
