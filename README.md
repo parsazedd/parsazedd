@@ -26,17 +26,18 @@
 <!--
 <p align="left"> <a href="https://instagram.com/parsazzedd" target="blank"><img src="https://img.shields.io/instagram/follow/parsazedd?logo=instagram&style=for-the-badge" alt="parsazedd" /></a> </p>
 -->
-- 🔭 I’m currently working on **new skills**
 
-- 🌱 I’m currently learning **learning web develoment**
+- 🔭 I’m currently working on *new skills*
 
-- 🤝 I’m looking for help with **on projects as a Graphic Designer and Front-end Web Development.**
+- 🌱 I’m currently *learning web develoment*
 
-- 📫 How to reach me **parsazedd@gmail.com**
+- 🤝 I’m looking for help with *on projects as a Graphic Designer and Front-end Web Development.*
 
-- ⚡ Fun fact **I have a bachelor degree in English -Persian translation but into digital creation of any sort.**
+- 📫 How to reach me *parsazedd@gmail.com*
 
-<ul align="left" list-type-style="none">Connect with me:</ul>
+- ⚡ Fun fact *I have a bachelor degree in English -Persian translation but into digital creation of any sort.*
+
+<h3 align="left" list-type-style="none">Connect with me:</h3>
 <p align="left">
     <!--
 <a href="https://codepen.io/parsazedd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="parsazedd" height="30" width="40" /></a>
