@@ -1,5 +1,4 @@
-![adobe-illustrator-svgrepo-com](https://github.com/parsazedd/parsazedd/assets/134009715/83c5cfb4-662d-486d-9d10-c23565b07d62)![adobe-photoshop-svgrepo-com](https://github.com/parsazedd/parsazedd/assets/134009715/39b08859-0a70-4d75-afef-f2f276f18d5b)![javascript-logo-svgrepo-com](https://github.com/parsazedd/parsazedd/assets/134009715/1c249723-19ce-4dfd-8867-c58218c416c9)<!--
-### Hi there 👋
+<!-- ### Hi there 👋
 
 **parsazedd/parsazedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -9,7 +8,7 @@
 - 👨🏻‍💻 I’m looking to collaborate on projects as a Graphic Designer and Front-end Web Development.
 - 📫 How to reach me: Mail me at parsazedd@gmail.com
 - ⚡ Fun fact: I have a bachelor degree in English -Persian translation but into digital creation of any sort.
-
+-->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parsazedd&theme=swift&show_icons=true)](https://github.com/parsazedd/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=parsazedd&theme=oldie)](https://github.com/parsazedd/github-profile-trophy)
@@ -40,7 +39,7 @@
 <h3 align="left" list-type-style="none">Connect with me:</h3>
 <p align="left">
     <!--
-<a href="https://codepen.io/parsazedd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="parsazedd" height="30" width="40" /></a>
+<a href="https://codepen.io/parsazedd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="parsazedd" height="30" width="40" /></a> -->
     <!--
 <a href="https://twitter.com/parsazedd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parsazedd" height="30" width="40" /></a>
   -->
@@ -60,9 +59,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<svg width="50px" height="50px" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin meet"><path d="M0 0h256v256H0V0z" fill="#F7DF1E"/><path d="M67.312 213.932l19.59-11.856c3.78 6.701 7.218 12.371 15.465 12.371 7.905 0 12.89-3.092 12.89-15.12v-81.798h24.057v82.138c0 24.917-14.606 36.259-35.916 36.259-19.245 0-30.416-9.967-36.087-21.996M152.381 211.354l19.588-11.341c5.157 8.421 11.859 14.607 23.715 14.607 9.969 0 16.325-4.984 16.325-11.858 0-8.248-6.53-11.17-17.528-15.98l-6.013-2.58c-17.357-7.387-28.87-16.667-28.87-36.257 0-18.044 13.747-31.792 35.228-31.792 15.294 0 26.292 5.328 34.196 19.247L210.29 147.43c-4.125-7.389-8.591-10.31-15.465-10.31-7.046 0-11.514 4.468-11.514 10.31 0 7.217 4.468 10.14 14.778 14.608l6.014 2.577c20.45 8.765 31.963 17.7 31.963 37.804 0 21.654-17.012 33.51-39.867 33.51-22.339 0-36.774-10.654-43.819-24.574"/></svg>…]()
-
-![react-javascript-js-framework-facebook-svgrepo-com](https://github.com/parsazedd/parsazedd/assets/134009715/51774a77-0bd4-4f9a-85a9-8bed0b6084f4)<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="10px" height="10px" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin meet"><path d="M0 0h256v256H0V0z" fill="#F7DF1E"/><path d="M67.312 213.932l19.59-11.856c3.78 6.701 7.218 12.371 15.465 12.371 7.905 0 12.89-3.092 12.89-15.12v-81.798h24.057v82.138c0 24.917-14.606 36.259-35.916 36.259-19.245 0-30.416-9.967-36.087-21.996M152.381 211.354l19.588-11.341c5.157 8.421 11.859 14.607 23.715 14.607 9.969 0 16.325-4.984 16.325-11.858 0-8.248-6.53-11.17-17.528-15.98l-6.013-2.58c-17.357-7.387-28.87-16.667-28.87-36.257 0-18.044 13.747-31.792 35.228-31.792 15.294 0 26.292 5.328 34.196 19.247L210.29 147.43c-4.125-7.389-8.591-10.31-15.465-10.31-7.046 0-11.514 4.468-11.514 10.31 0 7.217 4.468 10.14 14.778 14.608l6.014 2.577c20.45 8.765 31.963 17.7 31.963 37.804 0 21.654-17.012 33.51-39.867 33.51-22.339 0-36.774-10.654-43.819-24.574"/></svg>…]()
 
 <svg width="50px" height="50px" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M2 12.1333C2 8.58633 2 6.81283 2.69029 5.45806C3.29749 4.26637 4.26637 3.29749 5.45806 2.69029C6.81283 2 8.58633 2 12.1333 2H19.8667C23.4137 2 25.1872 2 26.5419 2.69029C27.7336 3.29749 28.7025 4.26637 29.3097 5.45806C30 6.81283 30 8.58633 30 12.1333V19.8667C30 23.4137 30 25.1872 29.3097 26.5419C28.7025 27.7336 27.7336 28.7025 26.5419 29.3097C25.1872 30 23.4137 30 19.8667 30H12.1333C8.58633 30 6.81283 30 5.45806 29.3097C4.26637 28.7025 3.29749 27.7336 2.69029 26.5419C2 25.1872 2 23.4137 2 19.8667V12.1333Z" fill="#001E36"/>
